@@ -1,0 +1,15 @@
+kernel/crypto/echainiv.ko
+kernel/crypto/hmac.ko
+kernel/crypto/sha256_generic.ko
+kernel/crypto/drbg.ko
+kernel/crypto/jitterentropy_rng.ko
+kernel/drivers/gpio/gpio-altera.ko
+kernel/drivers/char/hw_random/rng-core.ko
+kernel/drivers/block/nvme.ko
+kernel/drivers/misc/altera_sysid.ko
+kernel/drivers/net/ethernet/intel/e1000e/e1000e.ko
+kernel/drivers/net/ethernet/intel/igb/igb.ko
+kernel/drivers/usb/gadget/function/usb_f_mass_storage.ko
+kernel/drivers/usb/gadget/legacy/g_mass_storage.ko
+kernel/drivers/usb/gadget/libcomposite.ko
+kernel/drivers/i2c/algos/i2c-algo-bit.ko
